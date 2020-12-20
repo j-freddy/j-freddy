@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi `:)`
 
-<!--
-**j-freddy/j-freddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Freddy, an undergraduate studying maths and computing at Imperial College London.
 
-Here are some ideas to get you started:
+#### Previous projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 2-player shooter game
+  - [Try here!](https://litetj.itch.io/duel)
+- Underwater adventure game
+  - [Try here!](https://litetj.itch.io/ten-minutes-of-existence)
+- MCTS AI plays Connect 4
+  - [Download here!](https://github.com/ImpTJ/connect-four-mcts)
+- Genetic algorithm simulation (A-level NEA)
+  - [Try here!](https://freddyproject.github.io/Machine_Learning_Simulator)
+
+#### Find me
+
+- [LinkedIn](https://www.linkedin.com/in/freddy-jiang-a949331a3/)
+- [Website](https://imptj.github.io/)
