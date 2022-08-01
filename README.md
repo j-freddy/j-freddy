@@ -15,6 +15,6 @@ I'm Freddy, an undergraduate studying maths and computing at Imperial College Lo
 
 #### Find me
 
+- [Site](https://j-freddy.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/freddy-jiang-a949331a3/)
-- [Website](https://imptj.github.io/)
 - [Scratch](https://scratch.mit.edu/users/Relfirm/) (Legacy)
