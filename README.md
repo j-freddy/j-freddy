@@ -21,4 +21,8 @@
         <a href="https://j-freddy.github.io/portfolio">🗃️ Portfolio</a>&ensp;&ensp;&ensp;&ensp;
         <a href="https://j-freddy.github.io/blog">✏️ Blog</a>
     </p>
+    <small>
+        <!-- x RD x UR x ITEM -->
+        <code>/ASTRAL</code>
+    </small>
 </div>
