@@ -16,7 +16,7 @@
     <!-- LINKS -->
     <p>
         <b><i>Check out my site!</i></b><br /><br />
-        <a href="https://j-freddy.github.io/">🛖 Homepage</a>&ensp;&ensp;&ensp;&ensp;
+        <a href="https://j-freddy.github.io/">🏠 Homepage</a>&ensp;&ensp;&ensp;&ensp;
         <a href="https://j-freddy.github.io/portfolio">🗃️ Portfolio</a>&ensp;&ensp;&ensp;&ensp;
         <a href="https://j-freddy.github.io/blog">✏️ Blog</a>
     </p>
