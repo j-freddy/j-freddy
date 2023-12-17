@@ -8,7 +8,7 @@
     <!-- PROFILE -->
     <h2>Hello world! :D</h2>
     <p>
-        Currently studying Joint Maths and Computing at Imperial College London.
+        Currently reading a master's degree in Artificial Intelligence and Machine Learning at Imperial College.
         <br />
         Also a chess enthusiast, pianist, lover of progressive-trance vocaloid,
         and a big fan of Mariana's Trench (the band).
