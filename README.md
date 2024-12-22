@@ -6,9 +6,9 @@
     <a href="https://discordapp.com/users/362278194851872770"><img src="https://img.shields.io/badge/Discord-@afMirror-7048e8?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
     <a href="https://lichess.org/@/afMirrorUR"><img src="https://img.shields.io/badge/LiChess-@afMirrorUR-74b816?style=for-the-badge&logo=lichess&logoColor=white" alt="LiChess"></a><br /><br />
     <!-- PROFILE -->
-    <h2>Hello world! :D</h2>
+    <h2>Hello, world!</h2>
     <p>
-        Currently reading a master's degree in Artificial Intelligence and Machine Learning at Imperial College.
+        Recent graduate at Imperial College with a master's degree in Artificial Intelligence and Machine Learning.
         <br />
         Also a chess enthusiast, pianist, lover of progressive-trance vocaloid,
         and a big fan of Mariana's Trench (the band).
