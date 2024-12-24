@@ -1,27 +1,48 @@
-<div align="center">
-    <img src="img/flowers.svg" alt="flowers-uhr"><br /><br />
-    <!-- BADGES @ shields.io -->
-    <a href="https://www.linkedin.com/in/jiangfreddy/">
-    <img src="https://img.shields.io/badge/LinkedIn-@jiangfreddy-1c7ed6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://discordapp.com/users/362278194851872770"><img src="https://img.shields.io/badge/Discord-@afMirror-7048e8?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-    <a href="https://lichess.org/@/afMirrorUR"><img src="https://img.shields.io/badge/LiChess-@afMirrorUR-74b816?style=for-the-badge&logo=lichess&logoColor=white" alt="LiChess"></a><br /><br />
-    <!-- PROFILE -->
-    <h2>Hello, world!</h2>
-    <p>
-        Recent graduate from Imperial College with a master's degree in Artificial Intelligence and Machine Learning.
-        <br />
-        Also a chess enthusiast, pianist, lover of progressive-trance vocaloid,
-        and a big fan of Mariana's Trench (the band).
-    </p>
-    <!-- LINKS -->
-    <p>
-        <b><i>Check out my site!</i></b><br /><br />
-        <a href="https://j-freddy.github.io/">🏠 Homepage</a>&ensp;&ensp;&ensp;&ensp;
-        <a href="https://j-freddy.github.io/portfolio">🗃️ Portfolio</a>&ensp;&ensp;&ensp;&ensp;
-        <a href="https://j-freddy.github.io/blog">✏️ Blog</a>
-    </p>
-    <small>
-        <!-- x RD x UR x ITEM -->
-        <code>/ASTRAL</code>
-    </small>
-</div>
+# 🌎 &nbsp; Hello, World!
+
+I'm a tech enthusiast and passionate about all things AI and data science. I 
+love to write code as I consider it a form of art. I also love learning, 
+building and fixing things with new tools and technologies.
+
+I advocate for a transparent internet with guarantee of complete anonymity and 
+privacy.
+
+I like to philosophise about the future of human-robot interaction and the 
+ethics of security concepts such as plausible deniability. To that end, I 
+believe AGI is a good thing for humanity.
+
+## 📚 &nbsp; About me
+
+I am currently a full-time software engineer. I graduated from Imperial College 
+London with an master's degree in Artificial Intelligence and a bachelor's 
+degree in Joint Maths and Computer Science.
+
+Outside of the digital world, I am active in the chess and table tennis scene 
+at the county & district level.
+
+## 📌 &nbsp; My repositories
+
+- [Personal Site][my-site]
+- [Evaluating SimCLR for Medical Image Classification][simclr-medical-imaging]
+- [Ultimate Tic-Tac-Toe][ultimate-tictactoe]
+- [Ultimate Pong][ultimate-pong]
+- [Chess][chess]
+- [Chess AI][chess-ai]
+- [Data Animations][data-animations]
+
+[chess]: https://github.com/j-freddy/chess
+[chess-ai]: https://github.com/j-freddy/chess-ai
+[data-animations]: https://github.com/j-freddy/data-animations
+[my-site]: https://github.com/j-freddy/j-freddy.github.io
+[simclr-medical-imaging]: https://github.com/j-freddy/simclr-medical-imaging
+[ultimate-tictactoe]: https://github.com/j-freddy/ultimate-tictactoe
+[ultimate-pong]: https://github.com/j-freddy/ultimate-pong
+
+## 📫 &nbsp; Contact me
+
+Find me on [LinkedIn][linkedin].
+
+Or, challenge me to a game of [chess][lichess].
+
+[linkedin]: https://www.linkedin.com/in/jiangfreddy/
+[lichess]: https://lichess.org/@/afMirrorUR
