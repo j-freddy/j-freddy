@@ -8,7 +8,7 @@
     <!-- PROFILE -->
     <h2>Hello, world!</h2>
     <p>
-        Recent graduate at Imperial College with a master's degree in Artificial Intelligence and Machine Learning.
+        Recent graduate from Imperial College with a master's degree in Artificial Intelligence and Machine Learning.
         <br />
         Also a chess enthusiast, pianist, lover of progressive-trance vocaloid,
         and a big fan of Mariana's Trench (the band).
