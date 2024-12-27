@@ -1,15 +1,16 @@
 # 🌎 &nbsp; Hello, World!
 
-I'm a tech enthusiast and passionate about all things AI and data science. I 
-love to write code as I consider it a form of art. I also love learning, 
-building and fixing things with new tools and technologies.
+I am passionate about all things AI and data science. I love to write code as I
+consider it a form of art. I also love learning, building and automating things
+with new tools and technologies.
 
 I advocate for a transparent internet with guarantee of complete anonymity and 
 privacy.
 
-I like to philosophise about the future of human-robot interaction and the 
-ethics of security concepts such as plausible deniability. To that end, I 
-believe AGI is a good thing for humanity.
+I like to philosophise about the future of human-robot interaction and the
+extent to which foundational physical tasks can be automated, such as building
+houses and fixing roads. To that end, I believe AGI is a good thing for 
+humanity.
 
 ## 📚 &nbsp; About me
 
