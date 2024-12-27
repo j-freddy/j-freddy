@@ -8,9 +8,9 @@ I advocate for a transparent internet with guarantee of complete anonymity and
 privacy.
 
 I like to philosophise about the future of human-robot interaction and the
-extent to which foundational physical tasks can be automated, such as building
-houses and fixing roads. To that end, I believe AGI is a good thing for 
-humanity.
+extent to which foundational physical tasks, such as building houses and fixing
+roads, can be automated by multi-agent systems equipped with edge AI. To that
+end, I believe AGI is a good thing for humanity.
 
 ## 📚 &nbsp; About me
 
