@@ -23,7 +23,6 @@ at the county & district level.
 
 ## 📌 &nbsp; My repositories
 
-- [Personal Site][my-site]
 - [Evaluating SimCLR for Medical Image Classification][simclr-medical-imaging]
 - [Ultimate Tic-Tac-Toe][ultimate-tictactoe]
 - [Ultimate Pong][ultimate-pong]
@@ -34,7 +33,6 @@ at the county & district level.
 [chess]: https://github.com/j-freddy/chess
 [chess-ai]: https://github.com/j-freddy/chess-ai
 [data-animations]: https://github.com/j-freddy/data-animations
-[my-site]: https://github.com/j-freddy/j-freddy.github.io
 [simclr-medical-imaging]: https://github.com/j-freddy/simclr-medical-imaging
 [ultimate-tictactoe]: https://github.com/j-freddy/ultimate-tictactoe
 [ultimate-pong]: https://github.com/j-freddy/ultimate-pong
