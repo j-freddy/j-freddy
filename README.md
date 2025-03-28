@@ -14,9 +14,9 @@ end, I believe AGI is a good thing for humanity.
 
 ## 📚 &nbsp; About me
 
-I am currently a full-time software engineer. I graduated from Imperial College 
-London with an master's degree in Artificial Intelligence and a bachelor's 
-degree in Joint Maths and Computer Science.
+I am a software engineer. I graduated from Imperial College London with an
+master's degree in Artificial Intelligence and a bachelor's degree in Joint
+Maths and Computer Science.
 
 Outside of the digital world, I am active in the chess and table tennis scene 
 at the county & district level.
