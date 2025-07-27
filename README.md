@@ -12,6 +12,8 @@ extent to which foundational physical tasks, such as building houses and fixing
 roads, can be automated by multi-agent systems equipped with edge AI. To that
 end, I believe AGI is a good thing for humanity.
 
+To learn more, visit my site at [jtflabs.dev](https://jtflabs.dev/).
+
 ## 📚 &nbsp; About me
 
 I am a software engineer. I graduated from Imperial College London with an
