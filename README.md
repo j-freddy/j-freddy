@@ -43,7 +43,4 @@ at the county & district level.
 
 Find me on [LinkedIn][linkedin].
 
-Or, challenge me to a game of [chess][lichess].
-
 [linkedin]: https://www.linkedin.com/in/jiangfreddy/
-[lichess]: https://lichess.org/@/afMirrorUR
