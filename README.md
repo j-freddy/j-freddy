@@ -12,7 +12,7 @@ extent to which foundational physical tasks, such as building houses and fixing
 roads, can be automated by multi-agent systems equipped with edge AI. To that
 end, I believe AGI is a good thing for humanity.
 
-To learn more, visit my site at [jtflabs.dev](https://jtflabs.dev/).
+My site: [jtflabs.dev](https://jtflabs.dev/).
 
 ## 📚 &nbsp; About me
 
@@ -25,6 +25,7 @@ at the county & district level.
 
 ## 📌 &nbsp; My repositories
 
+- [Cardiac Shape Analysis with Nouveau Variational Autoencoder][nvae]
 - [Evaluating SimCLR for Medical Image Classification][simclr-medical-imaging]
 - [Ultimate Tic-Tac-Toe][ultimate-tictactoe]
 - [Ultimate Pong][ultimate-pong]
@@ -36,11 +37,12 @@ at the county & district level.
 [chess-ai]: https://github.com/j-freddy/chess-ai
 [data-animations]: https://github.com/j-freddy/data-animations
 [simclr-medical-imaging]: https://github.com/j-freddy/simclr-medical-imaging
+[nvae]: https://github.com/j-freddy/nvae-shape-encoding
 [ultimate-tictactoe]: https://github.com/j-freddy/ultimate-tictactoe
 [ultimate-pong]: https://github.com/j-freddy/ultimate-pong
 
 ## 📫 &nbsp; Contact me
 
-Find me on [LinkedIn][linkedin].
+Find me on [LinkedIn][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/jiangfreddy/
