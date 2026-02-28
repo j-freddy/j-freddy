@@ -16,12 +16,11 @@ My site: [jtflabs.dev](https://jtflabs.dev/)
 
 ## 📚 &nbsp; About me
 
-I am a software engineer. I graduated from Imperial College London with an
+I am a research engineer. I graduated from Imperial College London with an
 master's degree in Artificial Intelligence and a bachelor's degree in Joint
 Maths and Computer Science.
 
-Outside of the digital world, I am active in the chess and table tennis scene 
-at the county & district level.
+I am active in chess and table tennis at the county & district level.
 
 ## 📌 &nbsp; My repositories
 
